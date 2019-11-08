@@ -153,5 +153,18 @@ li {
 .hire-me {
   border-style: solid;
   border-color: white;
+}
 
+.top-button {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+.top-button a {
+  text-align: center;
+  border: solid white;
+  color: white;
+  text-decoration: none;
+  padding: 2px;
 }
