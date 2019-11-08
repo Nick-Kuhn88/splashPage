@@ -1,4 +1,4 @@
-# splashPage
+# Splash Page
 A professional splash page featuring my Web Development work.
 
 Check it out at https://nicholaskuhn.netlify.com/
