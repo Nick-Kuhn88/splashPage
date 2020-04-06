@@ -15,7 +15,7 @@ body{
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 600px;
+  height: 650px;
 }
 
 h1 {
@@ -29,6 +29,15 @@ h2 {
 	color: white;
 	font-size: 20px;
 	margin-top: 0;
+}
+
+.social-links-top {
+  text-align: center;
+}
+
+.social-links-top i {
+  color: white;
+  font-size: 36px;
 }
 
 .bio {
@@ -156,6 +165,24 @@ li {
   border-color: white;
 }
 
+#linkedin {
+  margin-left: 300px;
+  font-size: 30px;
+}
+
+#linkedin i {
+  color: white;
+}
+
+#github {
+  font-size: 30px;
+  color: white;
+}
+
+#github i {
+  color: white;
+}
+
 .top-button {
   margin: auto;
   width: 50%;
@@ -174,7 +201,7 @@ li {
   text-align: center;
 }
 
-i {
+.social-links i {
   color: white;
   font-size: 48px;
 }
